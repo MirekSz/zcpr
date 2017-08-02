@@ -1,0 +1,45 @@
+  {
+    "_id": "59818df5bbd1dd77cd063bcd",
+    "index": 0,
+    "guid": "bf74e788-05a1-4917-8f96-c5254d4ab975",
+    "isActive": false,
+    "balance": "$3,988.08",
+    "picture": "http://placehold.it/32x32",
+    "age": 36,
+    "eyeColor": "green",
+    "name": "Alexandria Mckenzie",
+    "gender": "female",
+    "company": "ENDIPINE",
+    "email": "alexandriamckenzie@endipine.com",
+    "phone": "+1 (886) 480-3836",
+    "address": "385 Mill Lane, Bellamy, Louisiana, 1778",
+    "about": "Exercitation sunt laborum velit eiusmod incididunt excepteur est. Commodo est cillum irure labore sunt nulla et sit. Dolor et consectetur et cupidatat consequat anim enim esse laboris dolor eu nisi ea Lorem. Aute officia nostrud laborum duis pariatur culpa id fugiat. Ex Lorem sunt voluptate exercitation Lorem ex elit cupidatat occaecat officia incididunt.\r\n",
+    "registered": "2015-10-05T07:34:26 -02:00",
+    "latitude": 72.938901,
+    "longitude": 118.537453,
+    "tags": [
+      "sunt",
+      "proident",
+      "sint",
+      "ipsum",
+      "magna",
+      "labore",
+      "quis"
+    ],
+    "friends": [
+      {
+        "id": 0,
+        "name": "Aisha Alston"
+      },
+      {
+        "id": 1,
+        "name": "Bailey Velasquez"
+      },
+      {
+        "id": 2,
+        "name": "Ortiz Daniels"
+      }
+    ],
+    "greeting": "Hello, Alexandria Mckenzie! You have 10 unread messages.",
+    "favoriteFruit": "strawberry"
+  }
